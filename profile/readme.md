@@ -4,7 +4,7 @@
 
 <div align="center" style="text-align: center;">
 
-  <a href="https://github.com/cinemarker">
+  <a href="https://cinemarker.github.io">
     <img src="https://avatars.githubusercontent.com/u/174854593?s=200&v=4" alt="CineMarker" width="200">
   </a>
 
@@ -142,7 +142,7 @@ Please check individual repositories for specific licensing information.
 
 ---
 
-_Made with ❤️ by [I am Programmer][lead_maintainer] and [The {{ORGANIZATION_NAME}} Team][contributors]._
+_Made with ❤️ by [I am Programmer][lead_maintainer] and [The CineMarker Team][contributors]._
 
 <br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
