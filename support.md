@@ -61,10 +61,10 @@ If your issue isn't getting attention:
 
 - 🚀 Getting Started Guide: [Quickstart][documentation]
 
-[documentation]: https://{{ORGANIZATION_USERNAME}}.github.io/documentation
-[community]: https://reddit.com/r/{{ORGANIZATION_USERNAME}}
+[documentation]: https://cinemarker.github.io/documentation
+[community]: https://reddit.com/r/cinemarker
 [issues]: /../../issues
 [contributors]: /../../graphs/contributors
-[support_email]: mailto:support@{{ORGANIZATION_WEBSITE}}
-[youtube]: https://youtube.com/@{{ORGANIZATION_USERNAME}}
-[api_documentation]: https://{{ORGANIZATION_USERNAME}}.github.io/documentation
+[support_email]: mailto:cinemarker@workspace.lk
+[youtube]: https://youtube.com/@cinemarker
+[api_documentation]: https://cinemarker.github.io/documentation
